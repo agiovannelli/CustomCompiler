@@ -8,8 +8,8 @@ Regex functionality was banned from the project and several additional restricti
 The code contained in this repository is in progress, with code generation only partially completed. 
 
 Functional Criteria:
-  Scanner 
-  Parser
-  Semantic Analysis
-  Code Generation
+  Scanner, 
+  Parser,
+  Semantic Analysis,
+  Code Generation,
   Runtime System
