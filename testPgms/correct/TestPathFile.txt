@@ -1,0 +1,32 @@
+		List<String> PathList =  Arrays.asList(
+				"//Users//Alex//Documents//testPgms//correct//vectorOps.src",
+				"//Users//Alex//Documents//testPgms//correct//iterativeFib.src", 
+				"//Users//Alex//Documents//testPgms//correct//logicals.src", 
+				"//Users//Alex//Documents//testPgms//correct//math.src", 
+				"//Users//Alex//Documents//testPgms//correct//multipleProcs.src",
+				"//Users//Alex//Documents//testPgms//correct//recursiveFib.src",
+				"//Users//Alex//Documents//testPgms//correct//source.src",
+				"//Users//Alex//Documents//testPgms//correct//test_heap.src",
+				"//Users//Alex//Documents//testPgms//correct//test1.src",
+				"//Users//Alex//Documents//testPgms//correct//test1b.src",
+				"//Users//Alex//Documents//testPgms//correct//test2.src",
+				"//Users//Alex//Documents//testPgms//correct//test_program_array.src",
+				"//Users//Alex//Documents//testPgms//correct//test_program_minimal.src"); 
+
+		//List<String> PathList =  Arrays.asList("//Users//Alex//Documents//testPgms//incorrect//typecheck//assignFloatToInt.src");
+		/*
+
+		*/
+
+				List<String> PathList =  Arrays.asList(
+				"//Users//Alex//Documents//testPgms//incorrect//test1.src",
+				"//Users//Alex//Documents//testPgms//incorrect//test2.src",
+				"//Users//Alex//Documents//testPgms//incorrect//test3.src",
+				"//Users//Alex//Documents//testPgms//incorrect//lexer//invalidChars.src",
+				"//Users//Alex//Documents//testPgms//incorrect//parser//badSource.src",
+				"//Users//Alex//Documents//testPgms//incorrect//parser//iterativeFib.src",
+				"//Users//Alex//Documents//testPgms//incorrect//parser//logical.src",
+				"//Users//Alex//Documents//testPgms//incorrect//parser//recursiveFib.src",
+				"//Users//Alex//Documents//testPgms//incorrect//parser//vectorOps.src",
+				"//Users//Alex//Documents//testPgms//incorrect//typecheck//assignBoolAndChar.src",
+				"//Users//Alex//Documents//testPgms//incorrect//typecheck//assignFloatToInt.src");

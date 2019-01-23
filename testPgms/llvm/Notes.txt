@@ -1,0 +1,23 @@
+general:
+    Notes: https://github.com/rwl/ir-builder
+	@ ~ global function/variables
+
+flow:
+	main:
+		      (int)
+		define i32 @main()
+		{
+			.
+			.
+			.
+			ret i32 0 ;{return int 0}
+		}
+ini:
+	int 	: ~ alloc i32, align 4
+	float 	: ~ alloc float, align 4
+	char 	: ~ alloc i8, align 1
+	char*	: ~ alloc i8*, align 4
+	bool	: ~ alloc i32, align 4
+
+	func	: ~ define void @test(){}
+		return : ret void

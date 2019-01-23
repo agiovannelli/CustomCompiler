@@ -1,0 +1,14 @@
+program CodeGen is
+global string c;
+char t[1:3];
+
+integer a;
+	procedure proc1(integer w out)
+	global integer l;
+	integer z;
+	begin
+	end procedure;
+	
+string s[1:3];
+begin
+end program.

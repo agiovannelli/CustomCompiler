@@ -1,0 +1,32 @@
+program Saucy is
+
+integer x;
+float y;
+char z;
+
+procedure Bae(integer val in)
+	integer x1;
+	string y1;
+	bool z1;
+
+	begin
+	
+	if(x1 == 2) then
+		y1 := "hello";
+	end if;
+
+	putchar(z);
+
+end procedure;
+
+begin
+
+x:=9 + 11.1;
+y:=10.1;
+z:='a';
+
+Bae(10);
+putfloat(y);
+putfloat(10.1);
+
+end program.
